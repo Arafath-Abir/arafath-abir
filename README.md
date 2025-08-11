@@ -1,5 +1,5 @@
-<!-- Banner (Optional) -->
-![Banner](https://ibb.co.com/NdzwsqX1)
+<!-- Banner -->
+<img src="https://i.postimg.cc/67ffnVcz/your-banner.jpg" width="100%" alt="Arafath Abir's Banner">
 
 <h1 align="center">Hi, I'm <span style="color:#58a6ff;">Arafath Abir</span> 👋</h1>
 
