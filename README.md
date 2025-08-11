@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Featured Projects
-- **[Elanzo](https://github.com/arafathabir/elanzo)** – Fashion e-commerce platform with modern UI & scalable backend.
+- **[Elanzo]([https://github.com/arafathabir/elanzo](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform.git))** – Fashion e-commerce platform with modern UI & scalable backend.
 - **[Portfolio Website](https://github.com/arafathabir/portfolio)** – Minimal & responsive personal portfolio.
 - **[Project 3](https://github.com/arafathabir/project3)** – Short description of your project.
 
