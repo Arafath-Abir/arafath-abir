@@ -1,5 +1,5 @@
 <!-- Banner (Optional) -->
-![Banner](https://i.ibb.co/6tJQ0bJ/github-banner.png)
+![Banner](https://ibb.co.com/NdzwsqX1)
 
 <h1 align="center">Hi, I'm <span style="color:#58a6ff;">Arafath Abir</span> 👋</h1>
 
