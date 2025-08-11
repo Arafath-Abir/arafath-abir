@@ -1,36 +1,59 @@
 <!-- Banner (Optional) -->
-![Banner](https://i.ibb.co/6tJQ0bJ/github-banner.png) 
+![Banner](https://i.ibb.co/6tJQ0bJ/github-banner.png)
 
 <h1 align="center">Hi, I'm <span style="color:#58a6ff;">Arafath Abir</span> 👋</h1>
 
 <p align="center">
-💻 Web Developer | 🚀 Building scalable & user-friendly web experiences  
+💻 Full Stack Developer | 🚀 Building scalable web applications  
 </p>
 
 ---
 
 ## 🛠 Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=339933"/>
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- [Elanzo](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform) – An E-Commerce Platform
-- **[Portfolio Website](https://github.com/arafathabir/portfolio)** – Minimal & responsive personal portfolio.
-- **[Project 3](https://github.com/arafathabir/project3)** – Short description of your project.
+## 🚀 Featured Projects
+
+### [Elanzo E-Commerce](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform)
+🛍️ Modern fashion e-commerce platform with:
+- Product catalog with filters
+- Shopping cart functionality
+- Responsive design
+
+[![Live Demo](https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanzo-demo.vercel.app)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arafathabir&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathabir&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath-Abir&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -38,15 +61,9 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/arafathabir">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  <a href="mailto:arafathabir@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub>✨ Minimal & Professional GitHub Profile by <strong>Arafath Abir</strong> ✨</sub>
 </p>
