@@ -13,6 +13,31 @@
 <!-- 3. Tech Stack Section with simulated animated badges -->
 
 <div align="left" style="max-width: 900px; margin: 40px auto; background: rgba(15, 22, 35, 0.9); border-radius: 20px; padding: 30px; box-shadow: 0 0 40px #0a3a66aa;">
+<!-- About Me Section with Animated Typing and Stylish Box -->
+
+<div align="center" style="max-width: 900px; margin: 40px auto; padding: 30px; border-radius: 20px; background: linear-gradient(135deg, #0a2e5b, #035388); box-shadow: 0 0 40px #0a5ea7cc; color: #cbd5e1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+  <h2 style="color: #58a6ff; font-weight: 900; margin-bottom: 15px;">
+    <!-- Animated typing heading -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1500&color=58a6ff&center=true&vCenter=true&width=420&lines=About+Me" alt="About Me" />
+  </h2>
+
+  <p style="font-size: 18px; line-height: 1.6; max-width: 720px; margin: auto;">
+
+    I am a dedicated <strong>Full-Stack and Backend Developer</strong> with expertise in <strong>Python, React</strong>, and database management using <strong>MySQL</strong> and <strong>PostgreSQL</strong>. Proficient in <strong>Tailwind CSS</strong> for crafting responsive designs and skilled in <strong>Git</strong> for efficient version control. I prioritize writing clean, maintainable code and am committed to continuous learning and skill advancement.
+
+  </p>
+
+  <h3 style="color: #7dd3fc; margin-top: 30px; font-weight: 700;">
+    Future Goals
+  </h3>
+
+  <p style="font-size: 16px; line-height: 1.5; max-width: 700px; margin: auto;">
+    Looking ahead, I aim to deepen my expertise in scalable backend architectures and cloud-native technologies, while contributing to impactful open-source projects that drive innovation and real-world solutions.
+  </p>
+
+</div>
+
 
 ## 🛠 Skills & Tools
 
