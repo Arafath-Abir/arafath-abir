@@ -3,12 +3,12 @@
   <img src="https://i.postimg.cc/67ffnVcz/your-banner.jpg" width="100%" alt="Arafath Abir's Banner"/>
 </p>
 
-<!-- Intro -->
-<h1 align="center">Hi, I'm <span style="color:#58a6ff;">Arafath Abir</span> 👋</h1>
-<h3 align="center">🐍 Python Developer | 🚀 Full Stack Developer</h3>
-<p align="center">
-  <em>Building impactful web experiences with modern tech.</em>
-</p>
+<!-- Dynamic Typing -->
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arafath+Abir+%F0%9F%91%8B;Full+Stack+Developer;Python+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arafath-Abir&color=blue&style=flat-square" alt="Profile views"/>
@@ -37,7 +37,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 <p align="center">
   <a href="https://elanzo-demo.vercel.app">
     <img src="https://i.postimg.cc/YqYpSmFG/project-thumbnail.jpg" width="80%" alt="Elanzo E-Commerce"/>
@@ -54,8 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath-Abir&layout=compact&theme=github_dark&hide_border=true" />
@@ -66,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=github-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 ---
