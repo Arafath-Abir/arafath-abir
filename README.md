@@ -5,7 +5,7 @@
 
 <!-- Multi-line animated typing roles with pauses and colors -->
 <p align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=7FFFD4,58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer|Open+Source+Enthusiast" alt="Dynamic Role Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=7FFFD4,58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer|" alt="Dynamic Role Typing" />
 </p>
 
 ---
