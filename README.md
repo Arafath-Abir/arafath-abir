@@ -1,22 +1,11 @@
-<!-- Container for waving name + animated "Hi there I am," inside -->
-
-<div align="center" style="position: relative; width: 100%; max-width: 800px; height: 180px; margin: auto;">
-
-  <!-- Big waving name banner -->
+<p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0a2e5b,035388,0476d0&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=56&fontWeight=900&animation=twinkling" 
-    alt="Arafath Hossen Abir" 
-    style="position: relative; z-index: 1; filter: drop-shadow(0 0 8px rgba(11, 55, 92, 0.8));"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0a2e5b,035388,0476d0&height=220&section=header&text=Hi%20there%20I%20am,%0AArafath%20Hossen%20Abir&fontSize=28&fontWeight=600&animation=twinkling" 
+    alt="Waving Banner with Two Lines"
+    style="filter: drop-shadow(0 0 10px rgba(11, 55, 92, 0.8));"
   />
+</p>
 
-  <!-- Animated typing "Hi there I am," overlaid top-left, smaller size -->
-  <div style="position: absolute; top: 30px; left: 10%; z-index: 2; width: 300px;">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=false&vCenter=true&width=300&lines=Hi+there+I+am," 
-      alt="Hi there I am,"
-      style="filter: drop-shadow(0 0 4px #58A6FF);"
-    />
-  </div>
 
 </div>
 
