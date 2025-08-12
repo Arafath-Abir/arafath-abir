@@ -1,22 +1,20 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/67ffnVcz/your-banner.jpg" width="100%" alt="Arafath Abir's Banner"/>
+  <img src="https://i.postimg.cc/67ffnVcz/your-banner.jpg" width="100%" alt="Arafath Abir Banner"/>
 </p>
 
-<!-- Dynamic Typing -->
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arafath+Abir+%F0%9F%91%8B;Full+Stack+Developer;Python+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- Intro -->
+<h1 align="center">Hi, I'm <span style="color:#58a6ff;">Arafath Abir</span> 👋</h1>
+<h3 align="center">Full Stack Developer | Python Enthusiast</h3>
+<p align="center"><em>I craft scalable and impactful web experiences</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arafath-Abir&color=blue&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Arafath-Abir&color=58a6ff&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Tech Stack
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,52 +27,46 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
+## 🚀 Featured Project
+<div align="center">
   <a href="https://elanzo-demo.vercel.app">
-    <img src="https://i.postimg.cc/YqYpSmFG/project-thumbnail.jpg" width="80%" alt="Elanzo E-Commerce"/>
+    <img src="https://i.postimg.cc/YqYpSmFG/project-thumbnail.jpg" width="80%" alt="Elanzo Project Preview"/>
   </a>
-</p>
-
-**[Elanzo E-Commerce](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform)**  
-🛍️ A modern fashion platform with:
-- Product catalog & filters  
-- Shopping cart functionality  
-- Fully responsive design  
-
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanzo-demo.vercel.app)
+  
+  <h3><a href="https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform">Elanzo E-Commerce</a></h3>
+  <p>
+    🛍️ A modern fashion platform with product filtering, cart system, and responsive UI.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  </p>
+  <a href="https://elanzo-demo.vercel.app">
+    <img src="https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath-Abir&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arafath-Abir&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=react-dark" alt="Activity Graph"/>
-</p>
-
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/arafathabir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arafathabir@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
