@@ -45,26 +45,18 @@
 ---
 
 
-<!-- 4. Featured Project with glowing effect -->
-<div align="center" style="max-width: 850px; margin: 50px auto; background: rgba(10, 15, 20, 0.95); border-radius: 22px; padding: 35px; box-shadow: 0 0 48px #0a3a66cc;">
-  <a href="https://elanzo-demo.vercel.app" target="_blank" rel="noopener" style="text-decoration: none;">
-    <img src="https://i.postimg.cc/YqYpSmFG/project-thumbnail.jpg" alt="Elanzo Project" width="100%" style="border-radius: 20px; box-shadow: 0 0 28px #0a3a66ee;" />
-    <h2 style="color: #0a3a66; margin-top: 22px; text-shadow: 0 0 20px #0a3a66;">Elanzo E-Commerce</h2>
-  </a>
-  <p style="color: #cbd5e1; font-size: 20px; margin-bottom: 24px; font-weight: 600;">
-    🛍️ Modern fashion e-commerce platform with product filters, shopping cart & responsive UI.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </p>
-  <a href="https://elanzo-demo.vercel.app" target="_blank" rel="noopener" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View_Live_Demo-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
-  </a>
-</div>
+## 🚀 Featured Projects
+
+### [Elanzo E-Commerce](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform)
+🛍️ Modern fashion e-commerce platform with:
+- Product catalog with filters
+- Shopping cart functionality
+- Responsive design
+
+[![Live Demo](https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanzo-demo.vercel.app)
 
 ---
+
 
 <!-- 5. GitHub stats with dark blue glow -->
 <p align="center" style="background: rgba(10, 15, 20, 0.9); border-radius: 25px; padding: 25px; max-width: 900px; margin: 40px auto; box-shadow: 0 0 40px #0a3a66bb;">
