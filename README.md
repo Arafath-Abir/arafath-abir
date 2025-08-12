@@ -26,7 +26,7 @@
 
 ---
 
-<!-- About Me Section (static text) -->
+<!-- About Me Section: static text without animation -->
 <p align="center" style="max-width: 650px; margin: 40px auto; font-size: 16px; line-height: 1.5; color: #a3b1c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Passionate Full-Stack & Backend Developer skilled in Python, React, MySQL, and PostgreSQL. Expert in Tailwind CSS and Git, focused on clean, maintainable code and continuous learning. Aiming to build scalable backend systems and contribute to impactful open-source projects.
 </p>
