@@ -1,13 +1,13 @@
 <p align="center" style="margin-bottom: -10px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=004080&center=true&vCenter=true&width=400&lines=Hi+there+I+am," 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=000080&center=true&vCenter=true&width=400&lines=Hi+there+I+am," 
     alt="Hi there I am," 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=004080,006633,008000&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=000080,ffcc00&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling&textColor=ffffff" 
     alt="Waving Banner" 
     style="opacity: 0.9;" 
   />
@@ -15,7 +15,7 @@
 
 <p align="center" style="margin-top: -10px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=004080,006633,008000&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=000080,ffcc00&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" 
     alt="Animated Role Typing" 
   />
 </p>
