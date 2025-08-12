@@ -14,6 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=58A6FF,7FFFD4,4DD0E1&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" alt="Animated Role Typing" />
 </p>
 
+
 ## 🛠 Skills & Tools
 
 ### Languages
