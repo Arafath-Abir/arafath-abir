@@ -1,24 +1,14 @@
-<p align="center" style="margin-bottom: -10px;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=000080&center=true&vCenter=true&width=400&lines=Hi+there+I+am," 
-    alt="Hi there I am," 
-  />
-</p>
-
+<!-- Animated waving name banner with gradient + twinkling -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=000080,ffcc00&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling&textColor=000080" 
-    alt="Waving Banner" 
-    style="opacity: 0.9;" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" alt="Animated Waving Name Banner" />
 </p>
 
+<!-- Multi-line animated typing roles with pauses and colors -->
 <p align="center" style="margin-top: -10px;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=000080,ffcc00&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" 
-    alt="Animated Role Typing" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=7FFFD4,58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer|Open+Source+Enthusiast" alt="Dynamic Role Typing" />
 </p>
+
+---
 
 ## 🛠 Skills & Tools
 
