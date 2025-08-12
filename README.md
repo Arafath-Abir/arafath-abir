@@ -1,6 +1,10 @@
-<!-- 1. Waving Banner with Darker Colorful Gradient -->
+<!-- 1. Animated "Hi there I am," text and Waving Banner with Darker Colorful Gradient -->
+<p align="center" style="margin-bottom: -10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=400&lines=Hi+there+I+am," alt="Hi there I am," />
+</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1e40,0a3a66,0c8dc4&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" alt="Dark Waving Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1e40,0a3a66,0c8dc4&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" alt="Dark Waving Banner" style="opacity: 0.85;" />
 </p>
 
 <!-- 2. Animated typing roles with multi color + fade effect -->
