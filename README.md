@@ -1,14 +1,18 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0a2e5b,035388,0476d0&height=220&section=header&text=Hi%20there%20I%20am,%0AArafath%20Hossen%20Abir&fontSize=28&fontWeight=600&animation=twinkling" 
-    alt="Waving Banner with Two Lines"
-    style="filter: drop-shadow(0 0 10px rgba(11, 55, 92, 0.8));"
-  />
+<!-- 1. Animated "Hi there I am," with smooth fade-in + Waving Name Banner with subtle shadow -->
+
+<p align="center" style="margin-bottom: -20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1200&color=5BC0EB&center=true&vCenter=true&width=420&lines=Hi+there,+I+am" alt="Hi there, I am" />
 </p>
 
+<p align="center" style="filter: drop-shadow(0 0 6px rgba(11, 55, 92, 0.7));">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2e5b,035388,0476d0&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=56&fontWeight=900&animation=twinkling" alt="Waving Banner" style="opacity: 0.92;" />
+</p>
 
-</div>
+<!-- 2. Animated typing roles with smooth multi-color gradient -->
 
+<p align="center" style="margin-top: -5px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=6000&pause=1500&color=5BC0EB,00CFFF,0288D1&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" alt="Animated Role Typing" />
+</p>
 
 ---
 
