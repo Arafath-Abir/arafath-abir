@@ -3,12 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1e40,0a3a66,0c8dc4&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" alt="Dark Waving Banner" />
 </p>
 
-<!-- 2. Animated typing roles with multi color + fade effect -->
-<p align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=58A6FF,7FFFD4,4DD0E1&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" alt="Animated Role Typing" />
-</p>
+<!-- About Me Section: Single professional paragraph with animated heading -->
 
----
+<div align="center" style="max-width: 900px; margin: 40px auto; padding: 32px 40px; border-radius: 24px; background: linear-gradient(135deg, #0a2e5b, #035388); box-shadow: 0 0 45px #0a5ea7cc; color: #cbd5e1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+  <h2 style="color: #58a6ff; font-weight: 900; margin-bottom: 24px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1500&color=58a6ff&center=true&vCenter=true&width=400&lines=About+Me" alt="About Me" />
+  </h2>
+
+  <p style="font-size: 18px; line-height: 1.7; max-width: 750px; margin: auto; text-align: justify;">
+    I am a passionate and dedicated Full-Stack and Backend Developer specializing in Python and React, with strong expertise in managing databases like MySQL and PostgreSQL. Skilled in Tailwind CSS, I craft responsive and modern user interfaces, while leveraging Git for efficient version control and collaborative development. I focus on writing clean, maintainable code and continuously seek to enhance my technical skills. Looking ahead, I aspire to deepen my knowledge of scalable backend architectures and cloud-native solutions, aiming to contribute to impactful open-source projects that drive innovation and deliver real-world value.
+  </p>
+
+</div>
 
 <!-- 3. Tech Stack Section with simulated animated badges -->
 
