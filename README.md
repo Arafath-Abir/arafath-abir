@@ -1,14 +1,21 @@
 <!-- Animated waving name banner with gradient + twinkling -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" alt="Animated Waving Name Banner" />
+<p align="center" style="margin-bottom: 10px;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=064635,025e73,023e58&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" 
+    alt="Animated Waving Name Banner" 
+    style="opacity: 0.9;"
+  />
 </p>
 
 <!-- Multi-line animated typing roles with pauses and colors -->
-<p align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=7FFFD4,58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" alt="Dynamic Role Typing" />
+<p align="center" style="margin-top: -20px;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" 
+    alt="Dynamic Role Typing" 
+    style="display: inline-block;"
+  />
 </p>
 
----
 
 ## 🛠 Skills & Tools
 
