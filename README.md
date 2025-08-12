@@ -1,5 +1,8 @@
 <p align="center" style="margin-bottom: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=400&lines=Hi+there+I+am," alt="Hi there I am," />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=4a90e2&center=true&vCenter=true&width=400&lines=Hi+there+I+am," 
+    alt="Hi there I am," 
+  />
 </p>
 
 <p align="center">
@@ -11,9 +14,11 @@
 </p>
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=58A6FF,7FFFD4,4DD0E1&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" alt="Animated Role Typing" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=4a90e2,357abd,2c5aa0&center=true&vCenter=true&width=650&lines=Python+Developer|Full+Stack+Developer" 
+    alt="Animated Role Typing" 
+  />
 </p>
-
 
 ## 🛠 Skills & Tools
 
