@@ -68,21 +68,7 @@
 
 ---
 
-<!-- 6. Social badges with same color theme -->
-<p align="center" style="background: rgba(10, 15, 20, 0.85); border-radius: 18px; padding: 15px; max-width: 600px; margin: 40px auto; box-shadow: 0 0 24px #0a3a66bb;">
-  <a href="https://linkedin.com/in/arafathabir" target="_blank" rel="noopener" style="margin: 0 14px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A3A66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arafathabir07@gmail.com" target="_blank" rel="noopener" style="margin: 0 14px;">
-    <img src="https://img.shields.io/badge/Email-0A3A66?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Arafath-Abir" target="_blank" rel="noopener" style="margin: 0 14px;">
-    <img src="https://img.shields.io/badge/GitHub-0A3A66?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center" style="font-style: italic; color: #a3b1c0; margin-top: 50px; margin-bottom: 40px;">
-  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-</p>
+📫 **Reach me at**  
+<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arafath-abir)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafathabir07@gmail.com)
