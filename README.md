@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm <span style="color:#58a6ff;">Arafath Abir</span> 👋</h1>
 
 <p align="center">
-💻 Full Stack Developer | 🚀 Building scalable web applications  
+🐍 Python Developer | 🚀 Full Stack Developer  
 </p>
 
 ---
