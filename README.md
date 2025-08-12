@@ -1,68 +1,54 @@
-<!-- Banner -->
+<!-- Centered Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/67ffnVcz/your-banner.jpg" width="100%" alt="Arafath Abir's Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Arafath+Abir+👋;🐍+Python+Developer;🚀+Full+Stack+Developer;💡+Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<!-- Typing Effect -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🐍+Python+Specialist;💻+Backend+Architect;🌐+Open+Source+Contributor" alt="Typing SVG" />
+</h3>
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Tech Stack
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-### [Elanzo E-Commerce](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform)
-🛍️ Modern fashion e-commerce platform:
-- Product catalog with filters  
-- Shopping cart functionality  
-- Responsive design  
-
-<p>
-  <a href="https://elanzo-demo.vercel.app">
-    <img src="https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,html,css,nodejs,express,mysql,postgres,git,github" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Arafath-Abir&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Arafath-Abir&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌟 Featured Projects
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [**Elanzo E-Commerce**](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform) | A modern fashion e-commerce platform with responsive design and cart system. | React, Tailwind, Node.js, MySQL |
+| **Portfolio Website** | Interactive portfolio showcasing my projects and skills. | HTML, CSS, JS |
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/arafathabir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:arafathabir@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:arafathabir07@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Arafath-Abir">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</p>
