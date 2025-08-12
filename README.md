@@ -63,51 +63,40 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center" style="background: #0d1724; padding: 25px; border-radius: 25px; box-shadow: 0 0 50px #1f407ccc; max-width: 900px; margin: 40px auto;">
+<p align="center" style="background: #0d1724; padding: 25px; border-radius: 20px; max-width: 900px; margin: 40px auto; box-shadow: 0 0 30px #1f407cbb;">
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
     alt="GitHub Stats" 
-    style="border-radius: 15px; box-shadow: 0 0 15px #0077ff88; transition: transform 0.3s ease;" 
-    onmouseover="this.style.transform='scale(1.05)';" 
-    onmouseout="this.style.transform='scale(1)';"
+    style="border-radius: 15px; margin-bottom: 20px;"
   />
-
-  <br /><br />
 
   <img 
     height="160" 
-    src="https://streak-stats.demolab.com?user=Arafath-Abir&theme=radical&hide_border=true&background=0d1724&ring=58a6ff&fire=4dd0e1&currStreakNum=7fffd4" 
+    src="https://streak-stats.demolab.com?user=Arafath-Abir&theme=github-dark&hide_border=true" 
     alt="GitHub Streak" 
-    style="border-radius: 15px; box-shadow: 0 0 20px #00bfffaa; transition: transform 0.3s ease;" 
-    onmouseover="this.style.transform='scale(1.05)';" 
-    onmouseout="this.style.transform='scale(1)';"
+    style="border-radius: 15px; margin-bottom: 20px;"
   />
-
-  <br /><br />
 
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=react-dark&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=github-dark&area=true&hide_border=true" 
     alt="GitHub Activity Graph" 
-    style="width: 100%; max-width: 860px; border-radius: 15px; box-shadow: 0 0 25px #1f407caa;" 
+    style="width: 100%; max-width: 860px; border-radius: 15px;"
   />
-  
-  <br /><br />
-  
+
+  <br />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath-Abir&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath-Abir&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
-    style="width: 100%; max-width: 860px; border-radius: 15px; box-shadow: 0 0 15px #0077ff88; transition: box-shadow 0.3s ease;"
-    onmouseover="this.style.boxShadow='0 0 40px #00dfff'"
-    onmouseout="this.style.boxShadow='0 0 15px #0077ff88'"
+    style="width: 100%; max-width: 860px; border-radius: 15px; margin-top: 20px;"
   />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Arafath-Abir&theme=github-dark&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=github-dark)
 ---
 
 📫 **Reach me at**  
 <br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arafath-abir)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafathabir07@gmail.com)
+
