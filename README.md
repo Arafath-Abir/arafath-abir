@@ -1,7 +1,7 @@
 <!-- Animated typing "Hi there, I am," above waving banner -->
 <p align="center" style="margin-bottom: -10px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=7FFFD4&center=true&vCenter=true&width=400&lines=Hi+there,+I+am," 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=3cb3b3&center=true&vCenter=true&width=400&lines=Hi+there,+I+am," 
     alt="Hi there, I am," 
   />
 </p>
@@ -23,7 +23,6 @@
     style="display: inline-block;"
   />
 </p>
-
 
 
 
