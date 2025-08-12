@@ -1,5 +1,13 @@
-<!-- Animated waving name banner with gradient + twinkling -->
-<p align="center" style="margin-bottom: 10px;">
+<!-- Animated typing "Hi there, I am," above waving banner -->
+<p align="center" style="margin-bottom: -10px;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=7FFFD4&center=true&vCenter=true&width=400&lines=Hi+there,+I+am," 
+    alt="Hi there, I am," 
+  />
+</p>
+
+<!-- Animated waving name banner with original gradient + twinkling -->
+<p align="center" style="margin-top: -20px;">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Md%20Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" 
     alt="Animated Waving Name Banner" 
@@ -7,8 +15,8 @@
   />
 </p>
 
-<!-- Multi-line animated typing roles with pauses and colors -->
-<p align="center" style="margin-top: -20px;">
+<!-- Animated typing roles below name -->
+<p align="center" style="margin-top: -15px;">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" 
     alt="Dynamic Role Typing" 
