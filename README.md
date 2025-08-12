@@ -26,8 +26,10 @@
 
 ---
 
-<!-- About Me Section: Static text without animation -->
+<!-- About Me Section with fade-in animation -->
 <p align="center" style="max-width: 650px; margin: 40px auto; font-size: 16px; line-height: 1.5; color: #a3b1c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=350&lines=About+Me" alt="About Me Header" style="margin-bottom: 10px;" />
+  <br />
   Passionate Full-Stack & Backend Developer skilled in Python, React, MySQL, and PostgreSQL. Expert in Tailwind CSS and Git, focused on clean, maintainable code and continuous learning. Aiming to build scalable backend systems and contribute to impactful open-source projects.
 </p>
 
