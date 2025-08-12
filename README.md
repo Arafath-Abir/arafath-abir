@@ -1,7 +1,7 @@
 <!-- Animated waving name banner with gradient + twinkling -->
 <p align="center" style="margin-bottom: 10px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=064635,025e73,023e58&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" 
     alt="Animated Waving Name Banner" 
     style="opacity: 0.9;"
   />
@@ -15,6 +15,7 @@
     style="display: inline-block;"
   />
 </p>
+
 
 
 ## 🛠 Skills & Tools
