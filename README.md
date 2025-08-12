@@ -3,17 +3,66 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1e40,0a3a66,0c8dc4&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" alt="Dark Waving Banner" />
 </p>
 
-<!-- About Me Section: Single professional paragraph with animated heading -->
+<!-- About Me Section with Dynamic Fade-in Animation -->
 
-<div align="center" style="max-width: 900px; margin: 40px auto; padding: 32px 40px; border-radius: 24px; background: linear-gradient(135deg, #0a2e5b, #035388); box-shadow: 0 0 45px #0a5ea7cc; color: #cbd5e1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<style>
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  .fade-in {
+    animation: fadeInUp 1s ease forwards;
+    opacity: 0;
+  }
+  .fade-in.delay-1 {
+    animation-delay: 0.5s;
+  }
+  .fade-in.delay-2 {
+    animation-delay: 1s;
+  }
+  .fade-in.delay-3 {
+    animation-delay: 1.5s;
+  }
+  .about-container {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 24px 30px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #0a2e5b, #035388);
+    box-shadow: 0 0 40px #0a5ea7cc;
+    color: #cbd5e1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  .about-heading {
+    color: #58a6ff;
+    font-weight: 900;
+    font-size: 34px;
+    margin-bottom: 20px;
+  }
+  .about-text {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+</style>
 
-  <h2 style="color: #58a6ff; font-weight: 900; margin-bottom: 24px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1500&color=58a6ff&center=true&vCenter=true&width=400&lines=About+Me" alt="About Me" />
-  </h2>
-
-  <p style="font-size: 18px; line-height: 1.7; max-width: 750px; margin: auto; text-align: justify;">
-    I am a passionate and dedicated Full-Stack and Backend Developer specializing in Python and React, with strong expertise in managing databases like MySQL and PostgreSQL. Skilled in Tailwind CSS, I craft responsive and modern user interfaces, while leveraging Git for efficient version control and collaborative development. I focus on writing clean, maintainable code and continuously seek to enhance my technical skills. Looking ahead, I aspire to deepen my knowledge of scalable backend architectures and cloud-native solutions, aiming to contribute to impactful open-source projects that drive innovation and deliver real-world value.
+<div class="about-container">
+  <h2 class="about-heading fade-in delay-1">About Me</h2>
+  <p class="about-text fade-in delay-2">
+    Passionate Full-Stack & Backend Developer skilled in Python, React, MySQL, and PostgreSQL.
   </p>
+  <p class="about-text fade-in delay-3">
+    Expert in Tailwind CSS and Git, focused on clean code and continuous growth. 
+    Aiming to master scalable backend systems and contribute to innovative open-source projects.
+  </p>
+</div>
+
 
 </div>
 
