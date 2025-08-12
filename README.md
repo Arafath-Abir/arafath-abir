@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=000080,ffcc00&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling&textColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=000080,ffcc00&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling&textColor=000080" 
     alt="Waving Banner" 
     style="opacity: 0.9;" 
   />
