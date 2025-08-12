@@ -1,18 +1,25 @@
-<!-- 1. Animated "Hi there I am," with smooth fade-in + Waving Name Banner with subtle shadow -->
+<!-- Container for waving name + animated "Hi there I am," inside -->
 
-<p align="center" style="margin-bottom: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1200&color=5BC0EB&center=true&vCenter=true&width=420&lines=Hi+there,+I+am" alt="Hi there, I am" />
-</p>
+<div align="center" style="position: relative; width: 100%; max-width: 800px; height: 180px; margin: auto;">
 
-<p align="center" style="filter: drop-shadow(0 0 6px rgba(11, 55, 92, 0.7));">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2e5b,035388,0476d0&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=56&fontWeight=900&animation=twinkling" alt="Waving Banner" style="opacity: 0.92;" />
-</p>
+  <!-- Big waving name banner -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0a2e5b,035388,0476d0&height=180&section=header&text=Arafath%20Hossen%20Abir&fontSize=56&fontWeight=900&animation=twinkling" 
+    alt="Arafath Hossen Abir" 
+    style="position: relative; z-index: 1; filter: drop-shadow(0 0 8px rgba(11, 55, 92, 0.8));"
+  />
 
-<!-- 2. Animated typing roles with smooth multi-color gradient -->
+  <!-- Animated typing "Hi there I am," overlaid top-left, smaller size -->
+  <div style="position: absolute; top: 30px; left: 10%; z-index: 2; width: 300px;">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=false&vCenter=true&width=300&lines=Hi+there+I+am," 
+      alt="Hi there I am,"
+      style="filter: drop-shadow(0 0 4px #58A6FF);"
+    />
+  </div>
 
-<p align="center" style="margin-top: -5px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=6000&pause=1500&color=5BC0EB,00CFFF,0288D1&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" alt="Animated Role Typing" />
-</p>
+</div>
+
 
 ---
 
