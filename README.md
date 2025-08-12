@@ -58,13 +58,11 @@
 </p>
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=Arafath-Abir&theme=github-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=github-dark)
+---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/arafath-abir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arafathabir07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+📫 **Reach me at**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arafathabir)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafathabir@example.com)
+
