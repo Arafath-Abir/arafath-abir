@@ -51,13 +51,36 @@
 
 ## 🚀 Featured Projects
 
-### [Elanzo E-Commerce](https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform)
-🛍️ Modern fashion e-commerce platform with:
-- Product catalog with filters
-- Shopping cart functionality
-- Responsive design
+<div style="max-width: 900px; margin: 30px auto; background: #0d1724; border-radius: 15px; padding: 25px; box-shadow: 0 0 30px #1f407cbb;">
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanzo-demo.vercel.app)
+  <a href="https://github.com/Arafath-Abir/Elanzo-An-E-Commerce-Platform" target="_blank" style="text-decoration: none;">
+    <h3 style="color: #58a6ff; margin-bottom: 10px;">Elanzo E-Commerce</h3>
+  </a>
+
+  <img 
+    src="https://i.postimg.cc/YqYpSmFG/project-thumbnail.jpg" 
+    alt="Elanzo E-Commerce Project" 
+    style="width: 100%; border-radius: 12px; box-shadow: 0 0 20px #035388cc; margin-bottom: 15px;"
+  />
+
+  <p style="color: #cbd5e1; font-size: 16px; line-height: 1.5; margin-bottom: 15px;">
+    🛍️ A modern fashion e-commerce platform featuring a product catalog with filters, smooth shopping cart functionality, and fully responsive design for all devices.
+  </p>
+
+  <p style="margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </p>
+
+  <a href="https://elanzo-demo.vercel.app" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0a3a66; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; border: none; cursor: pointer; box-shadow: 0 0 12px #0a3a66cc; transition: background-color 0.3s ease;">
+      🔗 View Live Demo
+    </button>
+  </a>
+
+</div>
+
 
 ---
 
