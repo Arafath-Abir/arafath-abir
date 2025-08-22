@@ -79,7 +79,10 @@
 - Shopping cart functionality  
 - Responsive design  
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanzo.netlify.app/)
+<a href="https://elanzo.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+</a>
+
 
 ---
 
