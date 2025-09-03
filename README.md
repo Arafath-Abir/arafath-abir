@@ -97,12 +97,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=github-dark)
 
 ---
-## 📊 Language Usage
 
-![Python](https://img.shields.io/badge/Python-39%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
-![HTML](https://img.shields.io/badge/HTML-20%25-orange)
-![CSS](https://img.shields.io/badge/CSS-11%25-purple)
 
 
 📫 **Reach me at**  
