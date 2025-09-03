@@ -97,6 +97,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=github-dark)
 
 ---
+## 📊 GitHub Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&langs_count=10)
+
 
 📫 **Reach me at**  
 <br>  
